@@ -64,10 +64,7 @@ Hey there! 👋 I am Sabrina Manahil Waseem, an undergraduate software engineeri
 I am an undergraduate software engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from pakistan. My passion lies in the world of software development, where I continuously explore and learn about new technologies.
 - :telescope: I'm eager to apply my skills in real-world projects through internships, freelance work, or collaborations
 - :seedling: I am passionate about learning new technologies and building innovative projects, eager to grow in web development and software engineering.
-
-- :zap: 
-
-
+- :zap: In my free time, I solve coding challenges on HackerRank and LeetCode, read tech articles, and experiment with new programming languages and frameworks
 - :mailbox:How to reach me:<br>- ![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)  https://www.linkedin.com/in/sabrina-manahil-waseem-s9o8n7i6c
 
 
