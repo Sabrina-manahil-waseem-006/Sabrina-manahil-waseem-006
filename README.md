@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/sabrina-manahil-waseem-s9o8n7i6c">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/your_username/">
+  <a href="https://leetcode.com/Sabrina--FESE2023-006/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
