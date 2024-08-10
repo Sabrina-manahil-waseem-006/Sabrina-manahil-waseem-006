@@ -60,3 +60,22 @@ I am an undergraduate software engineer  <img src="https://media.giphy.com/media
 
 
 - :mailbox:How to reach me:<br>- ![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)  https://www.linkedin.com/in/sabrina-manahil-waseem-s9o8n7i6c
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sabrina-manahil-waseem-006&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
