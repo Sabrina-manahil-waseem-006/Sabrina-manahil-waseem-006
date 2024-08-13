@@ -69,7 +69,3 @@ I am an undergraduate software engineer  <img src="https://media.giphy.com/media
 
 
 
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sabrina-manahil-waseem-006&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
