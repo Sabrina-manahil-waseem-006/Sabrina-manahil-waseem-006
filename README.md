@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <br>
-Hey there! 👋 I am Sabrina Manahil Waseem, an undergraduate software engineering student at NED University of Engineering and Technology. Welcome to my GitHub profile, where I share my journey as a learner, developer, and enthusiast in the world of software engineering.
+Hey there! 👋 I am Sabrina Manahil Waseem, a software engineering student at NED University of Engineering and Technology. Welcome to my GitHub profile, where I share my journey as a learner, developer, and enthusiast in the world of software engineering.
 
 ---
 
