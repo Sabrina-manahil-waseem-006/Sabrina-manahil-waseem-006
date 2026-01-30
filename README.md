@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-Hey there! 👋 I am Sabrina Manahil Waseem, a software engineer from NED University of Engineering and Technology. Welcome to my GitHub profile, where I share my journey as a learner, developer, and enthusiast in the world of software engineering.
+Hey there! I am Sabrina Manahil Waseem, a software engineer from NED University of Engineering and Technology. Welcome to my GitHub profile, where I share my journey as a learner, developer, and enthusiast in the world of software engineering.
 
 ---
 
@@ -50,17 +50,22 @@ Hey there! 👋 I am Sabrina Manahil Waseem, a software engineer from NED Univer
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress" alt="WordPress" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="45" height="45"/>&nbsp;
+
+  </div>
 
 ---
 
 ### :woman_technologist: About Me :
 
-I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan. My passion lies in the world of software development, where I continuously explore and learn about new technologies.
+I am a software engineer from Pakistan. My passion lies in the world of software development, where I continuously explore and learn about new technologies.
 
-- :telescope: I'm eager to apply my skills in real-world projects through internships, freelance work, or collaborations  
-- :seedling: I am passionate about learning new technologies and building innovative projects, eager to grow in web development and software engineering.  
-- :zap: In my free time, I solve coding challenges on HackerRank and LeetCode, read tech articles, and experiment with new programming languages and frameworks  
-- :mailbox: How to reach me:  
+- I'm eager to apply my skills in real-world projects through internships, freelance work, or collaborations  
+- I am passionate about learning new technologies and building innovative projects, eager to grow in web development and software engineering.  
+- In my free time, I solve coding challenges on HackerRank and LeetCode, read tech articles, and experiment with new programming languages and frameworks  
+- How to reach me:  
   - ![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white) https://www.linkedin.com/in/sabrina-manahil  
-  - ✉️ **sabrinamanahilsmw@gmail.com**
+  - **sabrinamanahilsmw@gmail.com**
